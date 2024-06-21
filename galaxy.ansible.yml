@@ -5,4 +5,4 @@ collections:
   version: 2.10.3
 - name: community.general
 - name: netapp.ontap
-  version: 22.10.0
+  version: 22.11.0
